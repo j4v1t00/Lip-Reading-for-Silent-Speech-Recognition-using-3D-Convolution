@@ -39,7 +39,7 @@ The model trained with the Conv3D layer had the most accurate results, with an a
 
 <p align="center">
   <img src="img/accuracy_conv3d.png" width="300" height="300">
-  <img src="img/Confusion_Matrix_RF_skplt_Norm.png" width="300" height="300">
+  <img src="img/Confusion_Matrix_CONV3D_Norm.png" width="300" height="300">
 </p>
 
 ### Dataset
