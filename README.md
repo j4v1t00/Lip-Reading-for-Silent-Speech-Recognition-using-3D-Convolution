@@ -1,7 +1,7 @@
 # Lip-Reading-for-Silent-Speech-Recognition-using-3D-Convolution
 
 ## Introduction
-I am a student pursuing a Bachelor's degree in Computer Engineering at the Universitat Autònoma de Barcelona (UAB). This repository contains the work for my final degree project titled "Lip-Reading for Silent Speech Recognition using 3D Convolution." The repository includes the code used to create two distinct types of models. The first model predicts the vowel being pronounced using a single image (the models can be found in "Vowel Recognition/models/.."). The second model, which is the primary focus of the project, predicts the English word being spoken based on a video (the models are located in "Lip Reading - Word Recognition/models/..").
+I am a student of the Degree in Computer Engineering at the Autonomous University of Barcelona (UAB). This repository contains the work for my final degree project titled "Lip-Reading for Silent Speech Recognition using 3D Convolution." The repository includes the code used to create two distinct types of models. The first model predicts the vowel being pronounced using a single image (the models can be found in "Vowel Recognition/models/.."). The second model, which is the primary focus of the project, predicts the English word being spoken based on a video (the models are located in "Lip Reading - Word Recognition/models/..").
 
 ## Vowel Recognition
 
